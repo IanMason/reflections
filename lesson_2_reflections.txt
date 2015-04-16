@@ -21,3 +21,7 @@ They show the order and list of changes for each branch
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The changes are combined and any conflicts are highlighted.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Faster with changes when no conflict.
